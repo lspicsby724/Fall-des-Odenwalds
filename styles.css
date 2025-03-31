@@ -6,7 +6,7 @@ body {
 }
 
 .hero {
-  background-image: url('https://your-image-link.com/zombie-background.jpg');
+  background-image: url('https://your-image-link.com/zombie-background.jpg'); /* hier kannst du später ein echtes Bild reinpacken */
   background-size: cover;
   background-position: center;
   height: 100vh;
